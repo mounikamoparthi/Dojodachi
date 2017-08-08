@@ -1,0 +1,8 @@
+C:\Users\mouni\Desktop\C# Stack\.NETCore\dojodachi\bin\Debug\netcoreapp1.1\dojodachi.deps.json
+C:\Users\mouni\Desktop\C# Stack\.NETCore\dojodachi\bin\Debug\netcoreapp1.1\dojodachi.runtimeconfig.json
+C:\Users\mouni\Desktop\C# Stack\.NETCore\dojodachi\bin\Debug\netcoreapp1.1\dojodachi.runtimeconfig.dev.json
+C:\Users\mouni\Desktop\C# Stack\.NETCore\dojodachi\bin\Debug\netcoreapp1.1\dojodachi.dll
+C:\Users\mouni\Desktop\C# Stack\.NETCore\dojodachi\bin\Debug\netcoreapp1.1\dojodachi.pdb
+C:\Users\mouni\Desktop\C# Stack\.NETCore\dojodachi\obj\Debug\netcoreapp1.1\dojodachi.AssemblyInfo.cs
+C:\Users\mouni\Desktop\C# Stack\.NETCore\dojodachi\obj\Debug\netcoreapp1.1\dojodachi.dll
+C:\Users\mouni\Desktop\C# Stack\.NETCore\dojodachi\obj\Debug\netcoreapp1.1\dojodachi.pdb
